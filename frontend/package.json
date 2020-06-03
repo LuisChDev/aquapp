@@ -31,8 +31,10 @@
     "lodash": "^4.17.15",
     "ngx-echarts": "^4.2.1",
     "rxjs": "^6.3.3",
+    "serverless-dotenv-plugin": "^2.4.2",
     "tslib": "^1.10.0",
-    "zone.js": "~0.9.1"
+    "zone.js": "~0.9.1",
+    "serverless-single-page-app-plugin": "file:./serverless/single-page-app-plugin"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.4",

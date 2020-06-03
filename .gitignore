@@ -3,3 +3,11 @@ config/
 
 .DS_Store
 .vscode
+
+**/.envrc
+
+.log
+
+# AWS lambda related
+frontend/.env
+frontend/.serverless
