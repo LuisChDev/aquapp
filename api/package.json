@@ -48,6 +48,7 @@
   "dependencies": {
     "@loopback/authentication": "^2.1.11",
     "@loopback/boot": "^1.5.3",
+    "@loopback/cli": "^4.0.0-alpha.10",
     "@loopback/context": "^1.21.4",
     "@loopback/core": "^1.9.3",
     "@loopback/openapi-v3": "^1.9.4",
