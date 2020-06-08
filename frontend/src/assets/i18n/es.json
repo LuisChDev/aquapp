@@ -129,7 +129,16 @@
 					"title": "Fecha ICAMpff"
 				}
 			},
-			"title": ""
+			"title": "",
+      "icampffValues": {
+        "title": "valores ICAMpff (estuario)",
+        "unavailable": "No disponible",
+        "poor": "Pobre",
+        "inadequate": "Inadecuado",
+        "acceptable": "Aceptable",
+        "adequate": "Adecuado",
+        "optimal": "Óptimo"
+      }
 		}
 	}
 }

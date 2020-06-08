@@ -129,7 +129,16 @@
 					"title": "ICAMpff date"
 				}
 			},
-			"title": ""
+			"title": "",
+      "icampffValues": {
+        "title": "ICAMpff (estuary) values",
+        "unavailable": "Unavailable",
+        "poor": "Poor",
+        "inadequate": "Inadequate",
+        "acceptable": "Acceptable",
+        "adequate": "Adequate",
+        "optimal": "Optimal"
+      }
 		}
 	}
 }
